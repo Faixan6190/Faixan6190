@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faixan6190
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html,css,Javascript,ReactJs .
+- 🌱 I’m currently learning NextJs, TypeScript.
 - 📫 How to reach me [Faizan](faixan6190@gmail.com)
 
 <!---
